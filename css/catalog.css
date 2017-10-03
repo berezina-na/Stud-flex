@@ -645,7 +645,8 @@ size: 25px;
   margin-bottom:16px}
 
 .filter-shop input[type=radio]+label::after
-{position:absolute;
+{
+  position:absolute;
   left:0;
   content:"";
   width: 25px;
